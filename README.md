@@ -7,3 +7,5 @@ Bayesian models have proven effective in characterizing perception, behavior, an
 ## Code
 
 The results can be reproduced using the notebook [Single_Trial_Bayesian_Decoding_Figures.ipynb](Single_Trial_Bayesian_Decoding_Figures.ipynb)
+
+The code and data are also available on [Kaggle](https://doi.org/10.34740/KAGGLE/DSV/8350679)
